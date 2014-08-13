@@ -1,0 +1,4 @@
+segobspy
+========
+
+reading seg
